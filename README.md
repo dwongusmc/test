@@ -3,7 +3,7 @@ Project README
 
 ## Subheader
 
-Tutorial
+Watch tutorial on YouTube.
 
 ## Local Development
 
